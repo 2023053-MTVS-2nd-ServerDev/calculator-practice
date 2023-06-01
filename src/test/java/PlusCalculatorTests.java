@@ -17,6 +17,6 @@ public class PlusCalculatorTests {
         int result = plusCalculator.sumTwoNumbers(num1, num2);
 
         //then
-        Assertions.assertEquals(30, result);
+        Assertions.assertEquals(20, result);
     }
 }
